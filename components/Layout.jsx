@@ -1,6 +1,7 @@
 import React from "react";
 import { Header } from "@/components/Header";
 import Head from "next/head";
+import Footer from "./Footer";
 
 export const Layout = ({ children }) => {
   return (
@@ -14,6 +15,7 @@ export const Layout = ({ children }) => {
       </Head>
       <Header />
       <main>{children}</main>
+      <Footer />
     </>
   );
 };
