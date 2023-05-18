@@ -21,7 +21,7 @@ export default function Home() {
           />
         </div>
         <div className='flex flex-row justify-center pt-12'>
-          <p className="text-base text-justify mx-7 lg:text-3xl text-fuchsia-500 font-DancingS sm:text-xl md:text-2xl 2xl:text-4xl lg:my-4">Bienvenue sur mon site.Pour toutes demandes, merci de me contacter à l’adresse mail ci-dessus.</p>
+          <p className="text-base text-justify mx-7 lg:text-3xl font-DancingS sm:text-xl md:text-2xl 2xl:text-4xl lg:my-4">Bienvenue sur mon site.Pour toutes demandes, merci de me contacter à l’adresse mail ci-dessus.</p>
         </div>
 
       </div>
