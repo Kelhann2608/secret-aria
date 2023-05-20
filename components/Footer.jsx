@@ -2,9 +2,11 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="h-20 p-3 text-xl  bg-fuchsia-300 sticky top-[100vh] text-center ">
+    
+    <footer className=" w-full h-20 p-3 mt-auto text-xl text-center bg-fuchsia-300">
       ©️ 2023 Secret'Aria
-    </div>
+    </footer>
+    
   );
 };
 

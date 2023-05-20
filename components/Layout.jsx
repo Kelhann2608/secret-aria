@@ -5,7 +5,7 @@ import Footer from "./Footer";
 
 export const Layout = ({ children }) => {
   return (
-    <>
+    <div className="flex flex-col min-h-screen">
       <Head>
         <title>Secret'Aria</title>
         <meta
@@ -14,8 +14,8 @@ export const Layout = ({ children }) => {
         />
       </Head>
       <Header />
-      <main>{children}</main>
+      <main className="flex-1">{children}</main>
       <Footer />
-    </>
+    </div>
   );
 };

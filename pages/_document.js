@@ -10,7 +10,7 @@ export default function Document() {
   return (
     <Html lang="fr">
       <Head />
-      <body>        
+      <body className="relative flex flex-col min-h-screen">        
         <Main />
         <NextScript />
       </body>

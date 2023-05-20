@@ -2,9 +2,9 @@ import { Layout } from "@/components/Layout";
 import React from "react";
 import Image from 'next/image';
 import Cover from '../assets/Bannière Secret-Aria.jpg'
-import Jess from '../assets/jess.jpg'
+import Bureau from '../assets/woman-work.jpg'
 
-export default function About() {
+export default function Services () {
   return (
     <Layout>
       <div className="min-h-screen ">
@@ -23,15 +23,15 @@ export default function About() {
           <div className="flex justify-center lg:my-10">
             <Image
               className="mt-10 shadow-xl top-100 md:w-96 md:h-96 lg:ml-28 rounded-xl shadow-purple-800/50 xl:ml-56"
-              src={Jess}
+              src={Bureau}
               alt="Image d'une personne"
               width={240}
               height={252}
               sizes="(max-width: 640px) 390px, (max-width: 800px) 390px,(max-width: 1200px) 390px," />
           </div>
-          <div className="flex flex-col flex-wrap content-center mx-4 lg:w-2/4 lg:mb-6 md:mx-4 lg:mr-6 md:mb-8">
-            <h1 className="mt-10 mb-3 text-xl text-center underline font-DancingS text-fuchsia-500 underline-offset-8 lg:text-3xl">A propos</h1>
-            <p className="mx-3 mb-5 font-semibold text-justify font-DancingS lg:text-3xl lg:text-justify lg:mx-5 md:text-2xl md:mx-6 xl:text-justify xl:mx-10 text-base md:mb-8">Secret'Aria est le spécialiste de la gestion administrative.
+          <div className="flex flex-col flex-wrap content-center mx-4 lg:w-2/4 lg:mb-6 md:mx-4 lg:mr-6">
+            <h1 className="mt-10 mb-3 text-xl text-center underline font-DancingS text-fuchsia-500 underline-offset-8 lg:text-3xl">Tâches Administratives</h1>
+            <p className="mx-3 mb-5 font-semibold text-justify font-DancingS lg:text-3xl lg:text-justify lg:mx-5 md:text-2xl md:mx-4 xl:text-justify xl:mx-10 text-base md:mb-8">Secret'Aria est le spécialiste de la gestion administrative.
               Je propose une large gamme de services : Rédaction, mise en page, présentations, saisie et vérification des données, gestion de documents, factures, devis, prise de rendez-vous, accueil téléphonique, gestion de planning et bien plus encore pour votre
               entreprise.
               Toujours prête à vous offrir une assistance spécialisée et à résoudre les problèmes. Faites moi confiance pour vos besoins administratifs et financiers !
@@ -42,5 +42,5 @@ export default function About() {
 
       </div>
     </Layout>
-  );
+  )
 }
