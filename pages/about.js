@@ -22,7 +22,7 @@ export default function About() {
         <div className="flex flex-col lg:flex-row xl:ml-20">
           <div className="flex justify-center lg:my-10">
             <Image
-              className="mt-10 shadow-xl top-100 md:w-96 md:h-96 lg:ml-28 rounded-xl shadow-purple-800/50 xl:ml-56"
+              className="mt-10 shadow-xl top-100 md:w-96 md:h-96 lg:ml-24 rounded-xl shadow-purple-800/50 xl:ml-24"
               src={Jess}
               alt="Image d'une personne"
               width={240}
@@ -31,7 +31,7 @@ export default function About() {
           </div>
           <div className="flex flex-col flex-wrap content-center mx-4 lg:w-2/4 lg:mb-6 md:mx-4 lg:mr-6 md:mb-8">
             <h1 className="mt-10 mb-3 text-xl text-center underline font-DancingS text-fuchsia-500 underline-offset-8 lg:text-3xl">A propos</h1>
-            <p className="mx-3 mb-5 font-semibold text-justify font-DancingS lg:text-3xl lg:text-justify lg:mx-5 md:text-2xl md:mx-6 xl:text-justify xl:mx-10 text-base md:mb-8">Secret'Aria est le spécialiste de la gestion administrative.
+            <p className="mx-3 mb-5 text-base font-semibold text-justify font-DancingS lg:text-2xl lg:text-justify lg:mx-5 md:text-2xl md:mx-6 xl:text-justify xl:mx-10 md:mb-8">Secret'Aria est le spécialiste de la gestion administrative.
               Je propose une large gamme de services : Rédaction, mise en page, présentations, saisie et vérification des données, gestion de documents, factures, devis, prise de rendez-vous, accueil téléphonique, gestion de planning et bien plus encore pour votre
               entreprise.
               Toujours prête à vous offrir une assistance spécialisée et à résoudre les problèmes. Faites moi confiance pour vos besoins administratifs et financiers !
