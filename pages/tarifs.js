@@ -21,6 +21,14 @@ const tarifs = () => {
         <div className="flex flex-col xl:ml-20">
           <div className="flex flex-col flex-wrap content-center mx-4 lg:mb-6 lg:mr-12 md:mb-8 2xl:text-center">
             <h1 className="my-10 text-xl text-center underline font-DancingS text-fuchsia-500 underline-offset-8 lg:text-3xl">Tarifs</h1>
+            <div>
+              <h2>Services basiques</h2>
+                <p>20 euros/heure</p>
+              </div>
+            <div>
+              <h2>Services avancés</h2>
+              <p>25 euros/heure</p>
+            </div>
           </div>
         </div>
       </div>
