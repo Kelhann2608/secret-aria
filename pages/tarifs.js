@@ -38,8 +38,8 @@ const tarifs = () => {
                 <h2 className="mt-2 mb-2 text-xl text-center underline font-DancingS md:mb-2 md:mt-2">Services avancés</h2>
                 <p className="text-center ">25 euros/heure</p>
                 <div className="mx-8 my-6 md:text-justify">
-                  <p>-Tous services administratifs confondus.</p>
-                  <p className="">
+                  <p>- Tous services administratifs confondus.</p>
+                  <p>
                     - Accueil téléphonique de vos clients (informations, prise
                     de rendez-vous, commandes, ...)
                   </p>
