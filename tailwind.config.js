@@ -17,7 +17,7 @@ module.exports = {
       }
     },
     fontFamily: {
-      DancingS: ['Dancing Script', 'sans-serif']
+      DancingS: ['Dancing Script']
     }
   },
   plugins: [],
