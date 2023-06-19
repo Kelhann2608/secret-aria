@@ -19,7 +19,7 @@ export default function About() {
             priority="true"
           />
         </div>
-        <div className="flex flex-col lg:flex-row xl:ml-20">
+        <div className="flex flex-col lg:flex-row 2xl:ml-56 xl:ml-34">
           <div className="flex justify-center lg:my-10">
             <Image
               className="mt-10 shadow-xl top-100 md:w-96 md:h-96 lg:ml-24 rounded-xl shadow-purple-800/50 xl:ml-24"
