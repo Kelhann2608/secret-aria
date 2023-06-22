@@ -9,8 +9,8 @@ import Cover from '../assets/Bannière Secret-Aria.jpg'
 export default function Home() {
   return (
     <Layout>
-      <div className='container mx-auto flex-grow'>
-        <div className="flex justify-center pt-8 mx-6">
+      <div className='container flex-grow mx-auto'>
+        <div className="flex justify-center pt-24 mx-6 md:pt-32">
           <Image
             className='shadow-xl rounded-xl shadow-gray-800/50 hover:shadow-purple-900/40'
             src={Cover}

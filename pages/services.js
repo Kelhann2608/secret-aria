@@ -4,11 +4,11 @@ import Image from 'next/image';
 import Cover from '../assets/Bannière Secret-Aria.jpg'
 import Bureau from '../assets/woman-work.jpg'
 
-export default function Services () {
+export default function Services() {
   return (
     <Layout>
       <div className="min-h-screen ">
-        <div className="flex justify-center pt-8 mx-6">
+        <div className="flex justify-center pt-24 mx-6 md:pt-32">
           <Image
             className='shadow-xl rounded-xl shadow-gray-800/50 hover:shadow-purple-900/40'
             src={Cover}
