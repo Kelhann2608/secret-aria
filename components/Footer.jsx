@@ -28,10 +28,18 @@ const Footer = () => {
         <div className="pb-3">
           <Link
             href="/mentionslegales"
-            className="items-center font-semibold underline font-DancingS md:text-2xl"
+            className="items-center pb-3 font-semibold underline font-DancingS md:text-2xl"
           >
             Mentions légales et politique de confidentialité
           </Link>
+          <p className="pb-3 font-DancingS md:text-xl">
+            <span className="font-medium underline">Adresse:</span> 3 Rue de
+            Portet,
+            <br />
+            Appt 202
+            <br />
+            64000 Pau
+          </p>
         </div>
       </div>
     </footer>
