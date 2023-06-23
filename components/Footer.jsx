@@ -32,7 +32,7 @@ const Footer = () => {
           >
             Mentions légales et politique de confidentialité
           </Link>
-          <p className="pb-3 font-DancingS md:text-xl">
+          <p className="pb-3 font-DancingS md:text-2xl">
             <span className="font-medium underline">Adresse:</span> 3 Rue de
             Portet,
             <br />
