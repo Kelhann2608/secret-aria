@@ -8,10 +8,12 @@ const Footer = () => {
       <div className="grid grid-cols-1 md:grid-cols-3">
         <div className="pb-3">
           <p className="text-lg font-semibold text-fuchsia font-DancingS md:text-2xl">
-            <span className="text-2xl underline ">Disponibiltés:</span> Lundi,
+            <span className="text-xl underline ">Disponibilités:</span> Lundi,
             Mardi,
             <br />
             Jeudi de 10h à 12h30 et <br /> de 14h à 18h
+            <br />
+            Fermé le Samedi, Dimanche et jours fériés.
           </p>
         </div>
         <div className="pb-3">
