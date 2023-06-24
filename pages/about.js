@@ -14,7 +14,7 @@ export default function About() {
             src={Cover}
             alt="Couverture site"
             width={1292}
-            height={652}
+            height={700}
             sizes="(max-width: 768) 768px,(max-width: 800px) 800px, (max-width: 1200px) 1200px, (max-width: 1400px) 1400px, (max-width: 1600px) 1600px, (max-width: 2400px) 2400px, 1200px"
             priority="true"
           />
