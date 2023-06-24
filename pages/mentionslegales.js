@@ -4,7 +4,7 @@ import { Layout } from "@/components/Layout";
 function mentionslegales() {
   return (
     <Layout>
-      <div className="px-12 text-justify pt-28 pb-28">
+      <div className="px-12 text-center md:text-justify pt-28 pb-28">
         <h1 className="text-2xl font-semibold text-center underline font-DancingS md:text-3xl text-fuchsia-500">
           Mentions légales
         </h1>
