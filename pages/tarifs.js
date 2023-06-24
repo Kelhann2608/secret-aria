@@ -27,7 +27,7 @@ const tarifs = () => {
               <div className="mb-8 text-center border-4 shadow-xl md:mr-8 border-fuchsia-500 rounded-xl shadow-gray-800/50 hover:shadow-purple-900/50">
                 <h2 className="mt-2 mb-2 text-xl text-center underline font-DancingS md:mb-2 md:mt-2 lg:text-3xl md:text-2xl">Services basiques</h2>
                 <p className="text-xl text-center font-DancingS xl:text-2xl">20 euros/heure</p>
-                <div className="mx-8 my-6 text-justify md:text-justify lg:text-justify xl:text-justify">
+                <div className="mx-8 my-6 text-center md:text-justify lg:text-justify xl:text-justify">
                   <p className="text-lg lg:text-xl font-DancingS xl:text-2xl">- Rédaction de lettres, devis, factures...</p>
                   <p className="text-lg lg:text-xl font-DancingS xl:text-2xl">- Prise d'appels clients</p>
                   <p className="text-lg lg:text-xl font-DancingS xl:text-2xl">- Gestion de votre planning et de vos rendez-vous</p>
@@ -37,7 +37,7 @@ const tarifs = () => {
               <div className="text-center border-4 shadow-xl border-fuchsia-500 rounded-xl md:ml-2 shadow-gray-800/50 hover:shadow-purple-900/50 md:mr-6">
                 <h2 className="mt-2 mb-2 text-xl text-center underline font-DancingS md:mb-2 md:mt-2 lg:text-3xl md:text-2xl">Services avancés</h2>
                 <p className="text-xl text-center font-DancingS xl:text-2xl">25 euros/heure</p>
-                <div className="mx-8 my-6 text-justify md:text-justify lg:text-justify xl:text-justify">
+                <div className="mx-8 my-6 text-center md:text-justify lg:text-justify xl:text-justify">
                   <p className="text-lg xl:text-2xl font-DancingS lg:text-xl">- Tous services administratifs confondus.</p>
                   <p className="text-lg xl:text-2xl font-DancingS lg:text-xl">
                     - Accueil téléphonique de vos clients (informations, prise

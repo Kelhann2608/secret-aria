@@ -31,12 +31,11 @@ export default function Services() {
           </div>
           <div className="flex flex-col flex-wrap content-center mx-4 lg:w-2/4 lg:mb-6 md:mx-4 lg:mr-6">
             <h1 className="mt-10 mb-3 text-xl text-center underline font-DancingS text-fuchsia-500 underline-offset-8 lg:text-3xl">Tâches Administratives</h1>
-            <p className="mx-3 mb-5 text-base font-semibold text-justify font-DancingS lg:text-2xl lg:text-justify lg:mx-5 md:text-2xl md:mx-4 xl:text-justify xl:mx-10 md:mb-8">Secret'Aria est le spécialiste de la gestion administrative.
-              Je propose une large gamme de services : Rédaction, mise en page, présentations, saisie et vérification des données, gestion de documents, factures, devis, prise de rendez-vous, accueil téléphonique, gestion de planning et bien plus encore pour votre
-              entreprise.
-              Toujours prête à vous offrir une assistance spécialisée et à résoudre les problèmes. Faites moi confiance pour vos besoins administratifs et financiers !
-              Dynamique, sérieuse, organisée, je serai à l'écoute de vos besoins.
-              Je travaille seule depuis mon domicile.</p>
+            <p className="mx-3 mb-5 text-base font-semibold text-center font-DancingS lg:text-2xl md:text-justify lg:mx-5 md:text-2xl md:mx-4 xl:text-justify xl:mx-10 md:mb-8">Mon entreprise est là pour vous aider dans vos tâches administratives diverses allant des réponses téléphoniques à vos clients (infos, rendez-vous, commandes, ...), frappe de courriers divers, établissement de devis, factures, à la gestion de vos plannings ainsi que celui de vos clients, gestion de vos commandes fournisseurs... et bien d'autres services.
+
+              Ceux-ci sont référencés dans les tarifs, mais si besoin d'autres services, nous pourrons en discuter ensemble et trouver des solutions adaptées à vos besoins.
+
+              Je me tiens à votre disposition pour tous renseignements.</p>
           </div>
         </div>
 
