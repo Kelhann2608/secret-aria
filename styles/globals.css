@@ -11,3 +11,8 @@
 body {
   background-color: #d1d5db;
 }
+
+@font-face {
+  font-family: "Dancing Script";
+  src: url("../public/DancingScript-VariableFont_wght.ttf");
+}
