@@ -15,7 +15,7 @@ function mentionslegales() {
           <br />
           Propriétaire du site : Entrepreneur Individuel: Jessica MILHET - Contact : milhetjessica@gmail.com tèl: 06 67 72 35 19 - Adresse : 3 Rue de Portet appt202 64000 Pau.
           <br />
-          Identification de l'entreprise : EI Entrepreneur Individuel: Jessica MILHET au capital social de € - SIREN : 951 266 550 00015 - RCS ou RM : - Adresse postale : 3 Rue de Portet appt202 64000 Pau.
+          Identification de l'entreprise : EI Entrepreneur Individuel: Jessica MILHET au capital social de € - SIRET : 951 266 550 00015 - RCS ou RM : - Adresse postale : 3 Rue de Portet appt202 64000 Pau.
           <br />
           Directeur de la publication : Bernardin MILHET- Contact : bernardin2608@gmail.com.
           <br />
