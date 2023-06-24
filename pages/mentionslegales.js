@@ -17,7 +17,7 @@ function mentionslegales() {
           <br />
           Identification de l'entreprise : EI Entrepreneur Individuel: Jessica MILHET au capital social de € - SIREN : 951 266 550 00015 - RCS ou RM : - Adresse postale : 3 Rue de Portet appt202 64000 Pau.
           <br />
-          Directeur de la publication : Bernardin MILHET - Contact : bernardin2608@gmail.com.
+          Directeur de la publication : Bernardin MILHET- Contact : bernardin2608@gmail.com.
           <br />
           Hébergeur : Vercel Inc 440 N Barranca Ave #4133 CA 91723 Covina Etats Unis
           <br />
