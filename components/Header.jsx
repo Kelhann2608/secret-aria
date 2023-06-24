@@ -49,22 +49,22 @@ export const Header = () => {
               }`}
             >
               <ul className="items-center justify-center h-screen md:h-auto md:flex ">
-                <li className="py-3 pb-6 text-2xl text-center border-b-2 border-fuchsia-900 text-fuchsia-500 font-DancingS md:px-6 md:border-b-0 hover:bg-fuchsia-900 md:hover:text-fuchsia-600 md:hover:bg-transparent lg:text-4xl 2xl:text-4xl md:text-3xl">
+                <li className="py-3 pb-6 text-2xl text-center border-b-2 border-fuchsia-900 text-fuchsia-500 font-DancingS md:px-6 md:border-b-0 hover:bg-fuchsia-900 md:hover:text-fuchsia-600 md:hover:bg-transparent lg:text-4xl 2xl:text-4xl md:text-2xl">
                   <Link href="/" onClick={() => setNavbar(!navbar)}>
                     Accueil
                   </Link>
                 </li>
-                <li className="px-6 py-3 pb-6 text-2xl text-center border-b-2 border-fuchsia-900 text-fuchsia-500 font-DancingS md:border-b-0 hover:bg-fuchsia-900 md:hover:text-fuchsia-600 md:hover:bg-transparent lg:text-4xl 2xl:text-4xl md:text-3xl">
+                <li className="px-6 py-3 pb-6 text-2xl text-center border-b-2 border-fuchsia-900 text-fuchsia-500 font-DancingS md:border-b-0 hover:bg-fuchsia-900 md:hover:text-fuchsia-600 md:hover:bg-transparent lg:text-4xl 2xl:text-4xl md:text-2xl">
                   <Link href="/about" onClick={() => setNavbar(!navbar)}>
                     A propos
                   </Link>
                 </li>
-                <li className="px-6 py-3 pb-6 text-2xl text-center border-b-2 border-fuchsia-900 text-fuchsia-500 font-DancingS md:border-b-0 hover:bg-fuchsia-900 md:hover:text-fuchsia-600 md:hover:bg-transparent lg:text-4xl 2xl:text-4xl md:text-3xl">
+                <li className="px-6 py-3 pb-6 text-2xl text-center border-b-2 border-fuchsia-900 text-fuchsia-500 font-DancingS md:border-b-0 hover:bg-fuchsia-900 md:hover:text-fuchsia-600 md:hover:bg-transparent lg:text-4xl 2xl:text-4xl md:text-2xl">
                   <Link href="/services" onClick={() => setNavbar(!navbar)}>
                     Services
                   </Link>
                 </li>
-                <li className="px-6 py-3 pb-6 text-2xl text-center border-b-2 border-fuchsia-900 text-fuchsia-500 font-DancingS md:border-b-0 hover:bg-fuchsia-900 md:hover:text-fuchsia-600 md:hover:bg-transparent lg:text-4xl 2xl:text-4xl md:text-3xl">
+                <li className="px-6 py-3 pb-6 text-2xl text-center border-b-2 border-fuchsia-900 text-fuchsia-500 font-DancingS md:border-b-0 hover:bg-fuchsia-900 md:hover:text-fuchsia-600 md:hover:bg-transparent lg:text-4xl 2xl:text-4xl md:text-2xl">
                   <Link href="/tarifs" onClick={() => setNavbar(!navbar)}>
                     Tarifs
                   </Link>
