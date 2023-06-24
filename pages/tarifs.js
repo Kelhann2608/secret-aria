@@ -49,7 +49,7 @@ const tarifs = () => {
                   </p>
                   <p className="text-lg xl:text-2xl font-DancingS lg:text-xl">
                     - Gestion planning rendez-vous clients, factures, devis,
-                    prise d'appel, lettres aux clients <br /> (relances, ...)
+                    prise d'appel, lettres aux clients (relances, ...)
                   </p>
                   <p className="text-lg xl:text-2xl font-DancingS lg:text-xl">
                     - Gestion de vos commandes auprès des fournisseurs si
