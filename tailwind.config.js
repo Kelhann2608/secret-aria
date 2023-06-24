@@ -14,11 +14,11 @@ module.exports = {
       },
       spacing: {
         'top-100': '887px',
+      },
+      fontFamily: {
+        DancingS: 'Dancing Script'
       }
     },
-    fontFamily: {
-      DancingS: 'Dancing Script'
-    }
   },
   plugins: [],
 }
